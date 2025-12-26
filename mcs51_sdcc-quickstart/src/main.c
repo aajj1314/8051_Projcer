@@ -1,4 +1,5 @@
-#include <reg52.h>
+#include<reg52.h>
+#include<stdio.h>
 #include "Nixie.h"
 #include "delay.h"
 unsigned char Dey = 26 , Month = 2 ; 
